@@ -127,4 +127,3 @@ Neste projeto, foi desenvolvida uma corrida que considera as habilidades dos per
    node src/index.js
    ```
 # desafioDioMarioKart
-# desafioDioMarioKart
